@@ -7,16 +7,20 @@ license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.13"
+python = "^3.12"
 click = "^8.1.8"
 sqlalchemy = "^2.0.37"
 numpy = "^2.2.1"
+geojson = "^3.2.0"
+geojson-pydantic = "^1.2.0"
+asyncio = "^3.4.3"
+httpx = "^0.28.1"
 
 [tool.poetry.urls]
 "Repository" = "https://github.com/drlinggg/demographic-stuff.git"
 
 [tool.poetry.scripts]
-population-setler = "application.__main__:main"
+population-setler = "population_setler.__main__:main"
 
 [build-system]
 requires = ["poetry-core"]

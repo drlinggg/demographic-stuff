@@ -1,0 +1,177 @@
+{
+  "count": 49,
+  "prev": null,
+  "next": "/api/v1/territories_without_geometry?parent_id=3&get_all_levels=false&cities_only=false&ordering=asc&page_size=10&page=2",
+  "results": [
+    {
+      "territory_id": 275,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Анисимово",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203000211",
+      "oktmo_code": "41603476102",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:26:11.285625Z"
+    },
+    {
+      "territory_id": 276,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Большой Двор",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203000212",
+      "oktmo_code": "41603476103",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:30:11.055877Z"
+    },
+    {
+      "territory_id": 277,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Бочатино",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203000213",
+      "oktmo_code": "41603476104",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:30:09.127489Z"
+    },
+    {
+      "territory_id": 278,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Велье",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203876002",
+      "oktmo_code": "41603476106",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:30:09.219994Z"
+    },
+    {
+      "territory_id": 279,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Верховье",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203876003",
+      "oktmo_code": "41603476111",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:30:09.315436Z"
+    },
+    {
+      "territory_id": 280,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Володино",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203876004",
+      "oktmo_code": "41603476116",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:30:09.419647Z"
+    },
+    {
+      "territory_id": 281,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Гагрино",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203000217",
+      "oktmo_code": "41603476117",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:30:09.512442Z"
+    },
+    {
+      "territory_id": 282,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Глядково",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203000218",
+      "oktmo_code": "41603476118",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:30:09.595336Z"
+    },
+    {
+      "territory_id": 283,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Головково",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203000219",
+      "oktmo_code": "41603476119",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:30:09.699329Z"
+    },
+    {
+      "territory_id": 284,
+      "territory_type": {
+        "territory_type_id": 8,
+        "name": "Деревня"
+      },
+      "parent_id": 3,
+      "name": "деревня Горка",
+      "level": 5,
+      "properties": {},
+      "admin_center": null,
+      "okato_code": "41203876005",
+      "oktmo_code": "41603476121",
+      "is_city": true,
+      "created_at": "2024-06-16T21:35:40.801621Z",
+      "updated_at": "2024-11-29T11:30:09.817742Z"
+    }
+  ]
+}

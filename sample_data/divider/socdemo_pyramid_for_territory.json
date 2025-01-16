@@ -1,0 +1,473 @@
+[
+  {
+    "indicator_id": 2,
+    "territory_id": 2,
+    "unit": "человек",
+    "year": 2020,
+    "source": "Официальная статистика",
+    "data": [
+      {
+        "age_start": 0,
+        "age_end": 0,
+        "male": 166,
+        "female": 151
+      },
+      {
+        "age_start": 1,
+        "age_end": 1,
+        "male": 195,
+        "female": 164
+      },
+      {
+        "age_start": 2,
+        "age_end": 2,
+        "male": 185,
+        "female": 166
+      },
+      {
+        "age_start": 3,
+        "age_end": 3,
+        "male": 192,
+        "female": 204
+      },
+      {
+        "age_start": 4,
+        "age_end": 4,
+        "male": 239,
+        "female": 222
+      },
+      {
+        "age_start": 5,
+        "age_end": 5,
+        "male": 228,
+        "female": 266
+      },
+      {
+        "age_start": 6,
+        "age_end": 6,
+        "male": 235,
+        "female": 211
+      },
+      {
+        "age_start": 7,
+        "age_end": 7,
+        "male": 245,
+        "female": 272
+      },
+      {
+        "age_start": 8,
+        "age_end": 8,
+        "male": 227,
+        "female": 225
+      },
+      {
+        "age_start": 9,
+        "age_end": 9,
+        "male": 262,
+        "female": 231
+      },
+      {
+        "age_start": 10,
+        "age_end": 10,
+        "male": 244,
+        "female": 257
+      },
+      {
+        "age_start": 11,
+        "age_end": 11,
+        "male": 310,
+        "female": 271
+      },
+      {
+        "age_start": 12,
+        "age_end": 12,
+        "male": 240,
+        "female": 227
+      },
+      {
+        "age_start": 13,
+        "age_end": 13,
+        "male": 265,
+        "female": 203
+      },
+      {
+        "age_start": 14,
+        "age_end": 14,
+        "male": 226,
+        "female": 220
+      },
+      {
+        "age_start": 15,
+        "age_end": 15,
+        "male": 265,
+        "female": 252
+      },
+      {
+        "age_start": 16,
+        "age_end": 16,
+        "male": 243,
+        "female": 281
+      },
+      {
+        "age_start": 17,
+        "age_end": 17,
+        "male": 259,
+        "female": 236
+      },
+      {
+        "age_start": 18,
+        "age_end": 18,
+        "male": 218,
+        "female": 293
+      },
+      {
+        "age_start": 19,
+        "age_end": 19,
+        "male": 366,
+        "female": 251
+      },
+      {
+        "age_start": 20,
+        "age_end": 20,
+        "male": 213,
+        "female": 171
+      },
+      {
+        "age_start": 21,
+        "age_end": 21,
+        "male": 273,
+        "female": 173
+      },
+      {
+        "age_start": 22,
+        "age_end": 22,
+        "male": 284,
+        "female": 262
+      },
+      {
+        "age_start": 23,
+        "age_end": 23,
+        "male": 284,
+        "female": 252
+      },
+      {
+        "age_start": 24,
+        "age_end": 24,
+        "male": 312,
+        "female": 286
+      },
+      {
+        "age_start": 25,
+        "age_end": 25,
+        "male": 403,
+        "female": 305
+      },
+      {
+        "age_start": 26,
+        "age_end": 26,
+        "male": 328,
+        "female": 263
+      },
+      {
+        "age_start": 27,
+        "age_end": 27,
+        "male": 251,
+        "female": 227
+      },
+      {
+        "age_start": 28,
+        "age_end": 28,
+        "male": 178,
+        "female": 295
+      },
+      {
+        "age_start": 29,
+        "age_end": 29,
+        "male": 228,
+        "female": 227
+      },
+      {
+        "age_start": 30,
+        "age_end": 30,
+        "male": 435,
+        "female": 301
+      },
+      {
+        "age_start": 31,
+        "age_end": 31,
+        "male": 494,
+        "female": 363
+      },
+      {
+        "age_start": 32,
+        "age_end": 32,
+        "male": 389,
+        "female": 505
+      },
+      {
+        "age_start": 33,
+        "age_end": 33,
+        "male": 553,
+        "female": 469
+      },
+      {
+        "age_start": 34,
+        "age_end": 34,
+        "male": 346,
+        "female": 304
+      },
+      {
+        "age_start": 35,
+        "age_end": 35,
+        "male": 412,
+        "female": 456
+      },
+      {
+        "age_start": 36,
+        "age_end": 36,
+        "male": 631,
+        "female": 334
+      },
+      {
+        "age_start": 37,
+        "age_end": 37,
+        "male": 483,
+        "female": 309
+      },
+      {
+        "age_start": 38,
+        "age_end": 38,
+        "male": 389,
+        "female": 369
+      },
+      {
+        "age_start": 39,
+        "age_end": 39,
+        "male": 414,
+        "female": 337
+      },
+      {
+        "age_start": 40,
+        "age_end": 40,
+        "male": 301,
+        "female": 388
+      },
+      {
+        "age_start": 41,
+        "age_end": 41,
+        "male": 345,
+        "female": 377
+      },
+      {
+        "age_start": 42,
+        "age_end": 42,
+        "male": 291,
+        "female": 355
+      },
+      {
+        "age_start": 43,
+        "age_end": 43,
+        "male": 511,
+        "female": 389
+      },
+      {
+        "age_start": 44,
+        "age_end": 44,
+        "male": 270,
+        "female": 395
+      },
+      {
+        "age_start": 45,
+        "age_end": 45,
+        "male": 303,
+        "female": 477
+      },
+      {
+        "age_start": 46,
+        "age_end": 46,
+        "male": 308,
+        "female": 332
+      },
+      {
+        "age_start": 47,
+        "age_end": 47,
+        "male": 371,
+        "female": 362
+      },
+      {
+        "age_start": 48,
+        "age_end": 48,
+        "male": 344,
+        "female": 374
+      },
+      {
+        "age_start": 49,
+        "age_end": 49,
+        "male": 415,
+        "female": 321
+      },
+      {
+        "age_start": 50,
+        "age_end": 50,
+        "male": 282,
+        "female": 304
+      },
+      {
+        "age_start": 51,
+        "age_end": 51,
+        "male": 259,
+        "female": 281
+      },
+      {
+        "age_start": 52,
+        "age_end": 52,
+        "male": 234,
+        "female": 296
+      },
+      {
+        "age_start": 53,
+        "age_end": 53,
+        "male": 303,
+        "female": 347
+      },
+      {
+        "age_start": 54,
+        "age_end": 54,
+        "male": 275,
+        "female": 342
+      },
+      {
+        "age_start": 55,
+        "age_end": 55,
+        "male": 276,
+        "female": 275
+      },
+      {
+        "age_start": 56,
+        "age_end": 56,
+        "male": 285,
+        "female": 344
+      },
+      {
+        "age_start": 57,
+        "age_end": 57,
+        "male": 290,
+        "female": 373
+      },
+      {
+        "age_start": 58,
+        "age_end": 58,
+        "male": 283,
+        "female": 462
+      },
+      {
+        "age_start": 59,
+        "age_end": 59,
+        "male": 300,
+        "female": 502
+      },
+      {
+        "age_start": 60,
+        "age_end": 60,
+        "male": 374,
+        "female": 401
+      },
+      {
+        "age_start": 61,
+        "age_end": 61,
+        "male": 305,
+        "female": 432
+      },
+      {
+        "age_start": 62,
+        "age_end": 62,
+        "male": 385,
+        "female": 428
+      },
+      {
+        "age_start": 63,
+        "age_end": 63,
+        "male": 331,
+        "female": 371
+      },
+      {
+        "age_start": 64,
+        "age_end": 64,
+        "male": 219,
+        "female": 400
+      },
+      {
+        "age_start": 65,
+        "age_end": 65,
+        "male": 246,
+        "female": 475
+      },
+      {
+        "age_start": 66,
+        "age_end": 66,
+        "male": 166,
+        "female": 423
+      },
+      {
+        "age_start": 67,
+        "age_end": 67,
+        "male": 256,
+        "female": 555
+      },
+      {
+        "age_start": 68,
+        "age_end": 68,
+        "male": 150,
+        "female": 347
+      },
+      {
+        "age_start": 69,
+        "age_end": 69,
+        "male": 170,
+        "female": 340
+      },
+      {
+        "age_start": 70,
+        "age_end": 74,
+        "male": 540,
+        "female": 1192
+      },
+      {
+        "age_start": 75,
+        "age_end": 79,
+        "male": 142,
+        "female": 877
+      },
+      {
+        "age_start": 80,
+        "age_end": 84,
+        "male": 379,
+        "female": 1209
+      },
+      {
+        "age_start": 85,
+        "age_end": 89,
+        "male": 87,
+        "female": 666
+      },
+      {
+        "age_start": 90,
+        "age_end": 94,
+        "male": 170,
+        "female": 71
+      },
+      {
+        "age_start": 95,
+        "age_end": 99,
+        "male": 26,
+        "female": 8
+      },
+      {
+        "age_start": 100,
+        "age_end": null,
+        "male": 0,
+        "female": 21
+      }
+    ]
+  }
+]

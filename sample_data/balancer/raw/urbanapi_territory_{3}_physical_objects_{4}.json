@@ -1,0 +1,287 @@
+4{
+  "count": 107,
+  "prev": null,
+  "next": "/api/v1/territory/3/physical_objects?physical_object_type_id=4&include_child_territories=true&cities_only=false&ordering=asc&page_size=10&page=2",
+  "results": [
+    {
+      "physical_object_id": 2160577,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 123947,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34367630,
+          "osm_id": "way/651227762",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\", \"addr:street\": \"4-я линия\", \"addr:housenumber\": \"0449\" }",
+          "is_living": 1,
+          "city_db_id": 885863,
+          "building_data": "{ \"address\": \"4-я линия, 0449, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 31.022400000000001, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 972817, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 972817, \"center\": \"0101000020E6100000009A15380B1941405372506ACABD4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:34:36.361858+00:00\", \"updated_at\": \"2022-05-27T11:34:36.361858+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:41:17.984446Z",
+      "updated_at": "2024-11-16T19:41:17.984446Z"
+    },
+    {
+      "physical_object_id": 2160675,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 123972,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34380171,
+          "osm_id": "way/651498437",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\" }",
+          "is_living": 1,
+          "city_db_id": 886398,
+          "building_data": "{ \"address\": \"1-я линия, 0136, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 35.273200000000003, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 973352, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 973352, \"center\": \"0101000020E61000005DA3E5408F194140D9AF3BDDF9BD4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:37:07.357942+00:00\", \"updated_at\": \"2022-05-27T11:37:07.357942+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:42:19.875866Z",
+      "updated_at": "2024-11-16T19:42:19.875866Z"
+    },
+    {
+      "physical_object_id": 2160684,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 123974,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34367903,
+          "osm_id": "way/651227744",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\", \"addr:street\": \"4-я линия\", \"addr:housenumber\": \"0446\" }",
+          "is_living": 1,
+          "city_db_id": 885845,
+          "building_data": "{ \"address\": \"4-я линия, 0446, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 49.109499999999997, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 972799, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 972799, \"center\": \"0101000020E61000005C900422011941400CB92B7BD6BD4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:34:36.361858+00:00\", \"updated_at\": \"2022-05-27T11:34:36.361858+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:42:27.228509Z",
+      "updated_at": "2024-11-16T19:42:27.228509Z"
+    },
+    {
+      "physical_object_id": 2160715,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 123981,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34375520,
+          "osm_id": "way/651498436",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\" }",
+          "is_living": 1,
+          "city_db_id": 886397,
+          "building_data": "{ \"address\": \"1-я линия, 0136, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 35.267800000000001, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 973351, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 973351, \"center\": \"0101000020E6100000F46272B474194140484B8A3416BE4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:37:07.357942+00:00\", \"updated_at\": \"2022-05-27T11:37:07.357942+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:42:49.737471Z",
+      "updated_at": "2024-11-16T19:42:49.737471Z"
+    },
+    {
+      "physical_object_id": 2160742,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 123987,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34363355,
+          "osm_id": "way/651227756",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\", \"addr:street\": \"3-я линия\", \"addr:housenumber\": \"0388\" }",
+          "is_living": 1,
+          "city_db_id": 885857,
+          "building_data": "{ \"address\": \"3-я линия, 0388, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 49.088900000000002, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 972811, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 972811, \"center\": \"0101000020E61000006AD2605B211941405066E6C7B7BD4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:34:36.361858+00:00\", \"updated_at\": \"2022-05-27T11:34:36.361858+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:43:09.309457Z",
+      "updated_at": "2024-11-16T19:43:09.309457Z"
+    },
+    {
+      "physical_object_id": 2160919,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 124037,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34377326,
+          "osm_id": "way/651227760",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\", \"addr:street\": \"4-я линия\", \"addr:housenumber\": \"0447\" }",
+          "is_living": 1,
+          "city_db_id": 885861,
+          "building_data": "{ \"address\": \"4-я линия, 0447, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 49.067900000000002, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 972815, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 972815, \"center\": \"0101000020E6100000D6F95C120C194140AD90A806D0BD4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:34:36.361858+00:00\", \"updated_at\": \"2022-05-27T11:34:36.361858+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:45:12.567975Z",
+      "updated_at": "2024-11-16T19:45:12.567975Z"
+    },
+    {
+      "physical_object_id": 2160938,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 124042,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34374980,
+          "osm_id": "way/651498435",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\" }",
+          "is_living": 1,
+          "city_db_id": 886396,
+          "building_data": "{ \"address\": \"1-я линия, 0136, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 45.075600000000001, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 973350, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 973350, \"center\": \"0101000020E61000000B74925275194140C8597D1A1CBE4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:37:07.357942+00:00\", \"updated_at\": \"2022-05-27T11:37:07.357942+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:45:27.228796Z",
+      "updated_at": "2024-11-16T19:45:27.228796Z"
+    },
+    {
+      "physical_object_id": 2161019,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 124059,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34377597,
+          "osm_id": "way/651227746",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\", \"addr:street\": \"4-я линия\", \"addr:housenumber\": \"0444\" }",
+          "is_living": 1,
+          "city_db_id": 885847,
+          "building_data": "{ \"address\": \"4-я линия, 0444, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 49.134500000000003, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 972801, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 972801, \"center\": \"0101000020E61000002D04E39301194140D16EC442DCBD4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:34:36.361858+00:00\", \"updated_at\": \"2022-05-27T11:34:36.361858+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:46:23.747412Z",
+      "updated_at": "2024-11-16T19:46:23.747412Z"
+    },
+    {
+      "physical_object_id": 2161094,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 124083,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34381635,
+          "osm_id": "way/651227757",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\", \"addr:street\": \"3-я линия\", \"addr:housenumber\": \"0386\" }",
+          "is_living": 1,
+          "city_db_id": 885858,
+          "building_data": "{ \"address\": \"3-я линия, 0386, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 49.095999999999997, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 972812, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 972812, \"center\": \"0101000020E6100000A64DB4D522194140AEFE67DCBDBD4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:34:36.361858+00:00\", \"updated_at\": \"2022-05-27T11:34:36.361858+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:47:19.787493Z",
+      "updated_at": "2024-11-16T19:47:19.787493Z"
+    },
+    {
+      "physical_object_id": 2161205,
+      "physical_object_type": {
+        "physical_object_type_id": 4,
+        "name": "Жилой дом",
+        "physical_object_function": {
+          "id": 1,
+          "name": "Здание"
+        }
+      },
+      "name": "(Безымянный физический объект)",
+      "properties": {},
+      "living_building": {
+        "id": 124111,
+        "living_area": null,
+        "properties": {
+          "ms_id": 34370099,
+          "osm_id": "way/651498410",
+          "osm_data": "{ \"building\": \"house\", \"addr:city\": \"СНТ Металлург-1\" }",
+          "is_living": 1,
+          "city_db_id": 886371,
+          "building_data": "{ \"address\": \"2-я линия, 0237, СНТ Металлург-1, Пикалёвское городское поселение, Бокситогорский район, Ленинградская область, Россия\", \"modeled\": { }, \"is_living\": true, \"properties\": { }, \"central_gas\": false, \"refusechute\": false, \"project_type\": \"nan\", \"building_area\": 35.308, \"central_water\": false, \"central_electro\": false, \"central_heating\": false, \"central_hotwater\": true, \"physical_object_id\": 973325, \"population_balanced\": 0 }",
+          "physical_object_data": "{ \"id\": 973325, \"center\": \"0101000020E61000002494AFB05A194140872484D63CBE4D40\", \"city_id\": 13, \"created_at\": \"2022-05-27T11:37:07.357942+00:00\", \"updated_at\": \"2022-05-27T11:37:07.357942+00:00\", \"municipality_id\": 145, \"administrative_unit_id\": 127 }"
+        }
+      },
+      "created_at": "2024-11-16T19:48:37.707223Z",
+      "updated_at": "2024-11-16T19:48:37.707223Z"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "indicator": {
+      "indicator_id": 1,
+      "parent_id": 34,
+      "name_full": "Численность населения",
+      "measurement_unit": {
+        "id": 1,
+        "name": "человек"
+      },
+      "level": 2,
+      "list_label": "2.1"
+    },
+    "territory": {
+      "id": 3,
+      "name": "Самойловское сельское поселение"
+    },
+    "date_type": "year",
+    "date_value": "2021-01-01",
+    "value": 2154,
+    "value_type": "real",
+    "information_source": "РОССТАТ",
+    "created_at": "2024-12-06T13:04:51.901978Z",
+    "updated_at": "2024-12-06T13:04:51.901978Z"
+  },
+  {
+    "indicator": {
+      "indicator_id": 1,
+      "parent_id": 34,
+      "name_full": "Численность населения",
+      "measurement_unit": {
+        "id": 1,
+        "name": "человек"
+      },
+      "level": 2,
+      "list_label": "2.1"
+    },
+    "territory": {
+      "id": 3,
+      "name": "Самойловское сельское поселение"
+    },
+    "date_type": "year",
+    "date_value": "2023-01-01",
+    "value": 2154,
+    "value_type": "real",
+    "information_source": "Unknown Source",
+    "created_at": "2024-10-08T13:28:35.087711Z",
+    "updated_at": "2024-10-08T13:28:35.087711Z"
+  }
+]

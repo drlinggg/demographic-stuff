@@ -1,7 +1,7 @@
 from dataclasses import dataclass, field
 from .people_distribution import PeopleDistribution
 
-@dataclass
+@dataclass(frozen=True)
 class PeopleDivision:
     """todo"""
 

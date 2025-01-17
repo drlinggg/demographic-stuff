@@ -2,8 +2,12 @@ from dataclasses import dataclass
 
 @dataclass
 class PeopleDistribution:
-    """dict = {"x-y": int} where x - start age and y - end age
-        e.x. {"5-10": 532} """
+    #todofix descr
+    """
+    dict = {"x-y": int} 
+    where x - start age and y - end age
+    for e.x. {"5-10": 532}
+    """
     
     count : dict[str, int] = None
 

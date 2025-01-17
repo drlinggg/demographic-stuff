@@ -23,12 +23,17 @@ def set(id : int,) -> None:
 
     #test begin
     test = PeopleDivision()
+    test.men.count["1-1"] = 532
     print("ages | count")
     for x,y in test.men.count.items():
         print(x,y)
-    test1 = Territory("Шахты")
-    test1.houses.append(House())
-    print(test1.houses)
+    test1 = Territory("Шахты", test)
+    test1.houses.append(House(1,1,1))
+    print(f'living area: {test1.get_living_area()}')
+    print(f'population: {test1.get_population()}')
+    print(f'houses: {test1.get_houses()}')
     #test end
+
+    
 
     pass
